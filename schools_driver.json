@@ -4,6 +4,5 @@
   "google_play_link": "https://play.google.com/store/apps/details?id=trackware.schoolbustracker.driver",
   "update_message_ar": "",
   "update_message_en": "",
-  "forceUpdateForUsersWithOfBeforeVersion": 127,
- "clearDataForUsersWithOfBeforeVersion": 127
+  "minimumAllowedVersion": 127
 }
