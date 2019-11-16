@@ -3,5 +3,7 @@
   "latest_version_name": "2.9.99",
   "google_play_link": "https://play.google.com/store/apps/details?id=trackware.schoolbustracker.driver",
   "update_message_ar": "",
-  "update_message_en": ""
+  "update_message_en": "",
+  "forceUpdateForCode": 127,
+ "forceUpdateForName": "2.9.99"
 }
